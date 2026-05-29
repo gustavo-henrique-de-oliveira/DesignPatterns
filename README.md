@@ -289,6 +289,8 @@ http://localhost:8080/h2-console
 
 # Pasta Postman
 
+Collection usada pode ser acessada abaixo
 
+[Download Collection Postman](postman/DesignPattern.postman_collection.json)
 
 ---
